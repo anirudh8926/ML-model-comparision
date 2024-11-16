@@ -1,0 +1,1 @@
+In this repo, I have added some code that compares two machine learning algos for a student study time, sleep time and GPA dataset. The models have been compared to each other with their R^2 value and their MSE values. 
